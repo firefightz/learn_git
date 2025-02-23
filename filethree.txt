@@ -1,1 +1,39 @@
-filethree
+
+1. Development & Coding
+
+Write clean, efficient, and scalable code in languages like Java, Python, Go, or Node.js.
+Develop and maintain RESTful APIs and GraphQL endpoints for microservices.
+Implement serverless computing solutions (e.g., AWS Lambda, Step Functions).
+2. Cloud & Infrastructure Management
+
+Deploy and manage microservices on AWS (ECS, EKS, Lambda, API Gateway, etc.).
+Use Infrastructure as Code (IaC) tools like Terraform, CloudFormation, or AWS CDK.
+Optimize performance and cost-efficiency of cloud resources.
+3. CI/CD & Automation
+
+Set up CI/CD pipelines using GitHub Actions, Jenkins, GitLab CI/CD, or AWS CodePipeline.
+Automate deployments with containerization tools like Docker and orchestration tools like Kubernetes.
+Ensure smooth and reliable software releases with blue/green and canary deployments.
+4. Monitoring & Troubleshooting
+
+Monitor system health using AWS CloudWatch, Prometheus, or Datadog.
+Debug production issues using AWS X-Ray, logging tools (ELK stack, CloudTrail, or Fluentd).
+Improve system reliability with error handling, retries, and failover strategies.
+5. Security & Compliance
+
+Implement IAM roles, security groups, and encryption to protect applications.
+Conduct security assessments and ensure compliance with best practices (e.g., OWASP, CIS benchmarks).
+Use AWS Secrets Manager and Parameter Store for managing sensitive data.
+6. Collaboration & Agile Practices
+
+Participate in daily stand-ups, sprint planning, and code reviews in an Agile/Scrum team.
+Collaborate with DevOps, QA, and product teams to refine requirements and improve system architecture.
+Document technical designs and API specifications.
+Skills & Technologies:
+Languages: Java, Python, Go, Node.js
+Frameworks: Spring Boot, Express.js, Flask
+Cloud Services: AWS Lambda, ECS, EKS, DynamoDB, S3, RDS, API Gateway
+DevOps Tools: Docker, Kubernetes, Terraform, CloudFormation
+Monitoring: CloudWatch, Prometheus, Datadog
+Security: IAM, Secrets Manager, AWS KMS
+CI/CD: Jenkins, GitHub Actions, AWS CodePipeline
